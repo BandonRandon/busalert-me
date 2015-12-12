@@ -4,7 +4,7 @@ busAlert.me was started in December 2010, as a service that would alert you when
 
 The service is no longer functioinal, however I may pick it up in the future. 
 
-This is the projects new home home on GitHub. The code previously lived at: https://code.google.com/p/busalert-me/
+This is the projects new home on GitHub. The code previously lived at: https://code.google.com/p/busalert-me/
 
 License
 ---
