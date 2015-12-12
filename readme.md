@@ -1,6 +1,6 @@
 About
 ---
-BusAlert.me was started in December 2010, as a service that would alert you when your bus is approaching your stops. You text in your request and alerts are sent either by phone or text. This service is available to all King County Metro stops. The service itself is written in PHP/MySQL and uses Twilio for handling phone intergration and makes use of the OneBusAway API for real time tracking infomation.
+busAlert.me was started in December 2010, as a service that would alert you when your bus is approaching your stops. You text in your request and alerts are sent either by phone or text. This service is available to all King County Metro stops. The service itself is written in PHP/MySQL and uses Twilio for handling phone intergration and makes use of the OneBusAway API for real time tracking infomation.
 
 The service is no longer functioinal, however I may pick it up in the future. 
 
@@ -8,7 +8,7 @@ This is the projects new home home on GitHub. The code previously lived at: http
 
 License
 ---
-    BusAlert.me  Copyright (C) 2010  Brooke Dukes
+    busAlert.me  Copyright (C) 2010  Brooke Dukes
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
